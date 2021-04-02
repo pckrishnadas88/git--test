@@ -7,3 +7,7 @@ function fancyAlert(arg) {
   }
 }
 ```
+```python
+def greet():
+  print("hi")
+ ```
